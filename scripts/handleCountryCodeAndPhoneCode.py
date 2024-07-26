@@ -1,6 +1,6 @@
 import json
 from pypinyin import lazy_pinyin
-
+# 处理 [CountryCodeAndPhoneCode](https://github.com/jjeejj/CountryCodeAndPhoneCode.git] 的数据
 # 从文件读取数据
 input_file = 'countries.json'
 output_file = 'sorted_countries.json'
